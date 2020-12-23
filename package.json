@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-xiaoyuvideo",
+  "version": "1.1.0",
+  "description": "小鱼视频",
+  "cordova": {
+    "id": "cordova-plugin-xiaoyuvideo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git"
+  },
+  "keywords": [
+    "xiaoyuvideo:cordova",
+    "cordova",
+    "cordova-android"
+  ],
+  "author": "wangshaoqiang",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git/issues"
+  },
+  "homepage": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git#readme"
+}
