@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git"
+    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo"
   },
   "keywords": [
     "xiaoyuvideo:cordova",
@@ -20,7 +20,7 @@
   "author": "wangshaoqiang",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git/issues"
+    "url": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo/issues"
   },
-  "homepage": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo.git#readme"
+  "homepage": "https://github.com/wshqiang/cordova-plugin-xiaoyuvideo#readme"
 }
